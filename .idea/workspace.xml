@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e871e9f-6e12-40d8-afaf-ec633f6cd136" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class5/final/Class_5_01_Adding_PopUp.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PortalForJSComprehensive" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="schedule.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="artists.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artists.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2280">
+              <caret line="152" column="24" lean-forward="false" selection-start-line="152" selection-start-column="24" selection-end-line="152" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="venuetravel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venuetravel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="136" column="121" lean-forward="false" selection-start-line="136" selection-start-column="106" selection-end-line="136" selection-end-column="121" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class_5_02_Adding_Geolocation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class5/final/Class_5_02_Adding_Geolocation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="n#!!doc;n#toggle#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncrementDecrementExample02.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class2/codeSnippets/IncrementDecrementExample02.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncrementDecrementExample03.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class2/codeSnippets/IncrementDecrementExample03.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncrementDecrementExample04.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class2/codeSnippets/IncrementDecrementExample04.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clock.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class2/final/clock.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="snippet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class2/final/snippet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class_5_01_Adding_PopUp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class5/final/Class_5_01_Adding_PopUp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Academy</find>
+      <find>group</find>
+      <find>h2</find>
+      <find>article</find>
+      <find>rouxconf</find>
+      <find>Roux</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head id\=\&quot;ucscconf\&quot;\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;link href\=\'http\:\/\/fonts\.googleapis\.com\/css\?family\=Droid\+Sans\%7CDroid\+Serif\' rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;_\/css\/style\.css\&quot;\&gt;\n    \&lt;title\&gt;Roux Conference\&lt;\/title\&gt;\n    \&lt;meta name\=\&quot;description\&quot; content\=\&quot;An art expo and conference in Seattle\, Washington\.\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body id\=\&quot;page_venuetravel\&quot;\&gt;\n\n\&lt;div class\=\&quot;wrapper group\&quot;\&gt;\n\n    \&lt;header\&gt;\n        \&lt;div class\=\&quot;group\&quot; id\=\&quot;branding\&quot;\&gt;\n            \&lt;a href\=\&quot;index\.html\&quot;\&gt;\&lt;img src\=\&quot;images\/ucsc_logo\.jpg\&quot; alt\=\&quot;UCSC Extension Logo\&quot; style\=\&quot;width\: 300px\&quot;\&gt; \&lt;\/a\&gt;\n            \&lt;p\&gt;UCSC Extension\&lt;br\&gt;Technology \• Media \• Design\&lt;\/p\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;div class\=\&quot;description\&quot;\&gt;\n            \&lt;h1\&gt;UCSC Extension Technology Conference\&lt;\/h1\&gt;\n            \&lt;p\&gt;Join over 500 hundred of the most creative and brilliant minds of technology colleges all around the\n                world for five days of lectures by world\-renowned technology scholars and artists\, and seven days and\n                nights of gallery exhibits featuring the best in contemporary technology\, including painting\, sculpture\,\n                and more\, in the beautiful halls of Hotel Contempo in the heart of Seattle\.\&lt;\/p\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;nav class\=\&quot;group\&quot;\&gt;\n            \&lt;ol\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;index\.html\&quot;\&gt;home\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;artists\.html\&quot;\&gt;speakers\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;schedule\.html\&quot;\&gt;schedule\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;venuetravel\.html\&quot;\&gt;venue\/travel\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;register\.html\&quot;\&gt;register\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;\/ol\&gt;\n        \&lt;\/nav\&gt;\n    \&lt;\/header\&gt;\n\n\n    \&lt;div id\=\&quot;hero\&quot; class\=\&quot;group \&quot;\&gt;\n        \&lt;img src\=\&quot;images\/rotator\/technology\.jpg\&quot; alt\=\&quot;Artwork from show\&quot; class\=\&quot;jumbo\&quot;\&gt;\n    \&lt;\/div\&gt;\n\n    \&lt;section id\=\&quot;main\&quot; class\=\&quot;group\&quot;\&gt;\n        \&lt;article id\=\&quot;thevenue\&quot;\&gt;\n            \&lt;h2\&gt;Misson Bay Conference Center\&lt;\/h2\&gt;\n            \&lt;br\&gt;\n            \&lt;p\&gt;\n                The Mission Bay Conference Center at UCSF is a world\-class setting with everything from ergonomic\n                furnishings and dramatic color to the latest technology to inspire your Node Summit experience\. MBCC has\n                hosted a number of well\-known industry conferences and we are excited to add Node Summit 2012 to the\n                roster of successful technology conferences that call the Mission Bay Conference Center home\.\n            \&lt;\/p\&gt;\n        \&lt;\/article\&gt;\&lt;\!\-\- The Venue \-\-\&gt;\n        \&lt;article id\=\&quot;hotellist\&quot;\&gt;\n            \&lt;ul class\=\&quot;group\&quot;\&gt;\n                \&lt;li class\=\&quot;group\&quot;\&gt;\n                    \&lt;img src\=\&quot;images\/venue\/mission\-bay\.jpg\&quot; alt\=\&quot;Photo of Mission Bay Confrence Centre\&quot;\&gt;\n                    \&lt;div class\=\&quot;textgroup\&quot;\&gt;\n                        \&lt;p\&gt;\n                            \&lt;strong\&gt;Mission Bay Conference Center\&lt;\/strong\&gt;\n                            \&lt;br\&gt;\n                            1675 Owens Street \(866\) 431\-8273\n                            \&lt;br\&gt;\n                            San Francisco\, CA 94158\n                            \&lt;br\&gt;\n                        \&lt;\/p\&gt;\n                        \&lt;\!\-\- \&lt;p class\=\&quot;group\&quot;\&gt;\&lt;a class\=\&quot;link\&quot; href\=\&quot;\#\&quot;\&gt;Get Directions\&lt;\/a\&gt;\&lt;\/p\&gt;\-\-\&gt;\n                        \&lt;p class\=\&quot;group\&quot;\&gt;\&lt;a class\=\&quot;link\&quot; onclick\=\&quot;toggle\(\'geoLi\'\)\&quot; href\=\&quot;javascript\:void\(0\)\;\&quot;\&gt;Get\n                            Directions\&lt;\/a\&gt;\&lt;\/p\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;group\&quot; id\=\&quot;geoLi\&quot; style\=\&quot;display\: none\&quot;\&gt;\n                    \&lt;div id\=\&quot;showGeolocation\&quot; class\=\&quot;textgroup\&quot;\n                         style\=\&quot;height\: 400px\; width\: 540px\; position\: relative\; overflow\: hidden\; margin\-left\: 70px\&quot;\&gt;\n\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n                \&lt;\!\-\-  \&lt;li class\=\&quot;group\&quot;\&gt;\n                      \&lt;img src\=\&quot;images\/hotel_rage\.jpg\&quot; alt\=\&quot;Photo of The Rage Hotel\&quot;\&gt;\n                      \&lt;div class\=\&quot;textgroup\&quot;\&gt;\n                          \&lt;h3\&gt;The Rage Hotel\&lt;\/h3\&gt;\n                          \&lt;p\&gt;Seattle\’s South Lake Union district plays home to the ultra modern Rage Hotel\, that is\n                              outfitted with a state\-of\-the\-art computer and printing facility in the penthouse\, and draws\n                              tech professionals from all over the world for business conferences and vacations\,\n                              alike\.\&lt;\/p\&gt;\n                          \&lt;p class\=\&quot;group\&quot;\&gt;\&lt;a class\=\&quot;link\&quot; href\=\&quot;\#\&quot;\&gt;Get Directions\&lt;\/a\&gt;\&lt;\/p\&gt;\n                      \&lt;\/div\&gt;\n                  \&lt;\/li\&gt;\n\n                  \&lt;li class\=\&quot;group\&quot;\&gt;\n                      \&lt;img src\=\&quot;images\/hotel_gwendoline\.jpg\&quot; alt\=\&quot;Photo of Hotel Gwendoline\’s Fancy\&quot;\&gt;\n                      \&lt;div class\=\&quot;textgroup\&quot;\&gt;\n                          \&lt;h3\&gt;Gwendoline\’s Fancy\&lt;\/h3\&gt;\n                          \&lt;p\&gt;In the heart of the West Edge district in Seattle\, Gwendoline\’s Fancy\, named after a Navy\n                              submarine that got lost at sea in 1910\, is a central landing place for history buffs who can\n                              immerse themselves in the Museum of History located in the hotel mezzanine\. For those\n                              travelers who aren\’t into history\, there are plenty of other nearby sights to keep them\n                              entertained\, including Pike Place Market and the Seattle Art Museum\.\&lt;\/p\&gt;\n                          \&lt;p class\=\&quot;group\&quot;\&gt;\&lt;a class\=\&quot;link\&quot; href\=\&quot;\#\&quot;\&gt;Get Directions\&lt;\/a\&gt;\&lt;\/p\&gt;\n                      \&lt;\/div\&gt;\n                  \&lt;\/li\&gt;\-\-\&gt;\n            \&lt;\/ul\&gt;\n        \&lt;\/article\&gt;\&lt;\!\-\- Hotel List \-\-\&gt;\n    \&lt;\/section\&gt; \&lt;\!\-\- maincontent \-\-\&gt;\n\n    \&lt;aside id\=\&quot;sidebar\&quot; class\=\&quot;group\&quot;\&gt;\n\n        \&lt;article id\=\&quot;artistlist\&quot;\&gt;\n            \&lt;h2\&gt;Featured Artists\&lt;\/h2\&gt;\n            \&lt;p\&gt;Each year\, nine individuals are honored as Featured Artists \- each being granted his or her own exhibit\n                hall to display entire collections or themed pieces\. Each Featured Artist has an opportunity to speak at\n                the conference to share his or her vision\, perspective\, and techniques with conference attendees\.\&lt;\/p\&gt;\n            \&lt;div class\=\&quot;pixgrid group\&quot;\&gt;\n                \&lt;ul class\=\&quot;group\&quot;\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/eran_hammer\.jpeg\&quot; alt\=\&quot;Photo of Barot Bellingham\&quot;\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/ryan\.jpg\&quot; alt\=\&quot;Photo of Constance Smith\&quot; data\-task\=\&quot;speaker\&quot;\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/subbu\.jpg\&quot; alt\=\&quot;Photo of Hassum Harrod\&quot;\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/chris\-allen\.jpg\&quot; alt\=\&quot;Photo of Chris Allen Goldwynn\&quot;\n                             data\-task\=\&quot;speaker\&quot;\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/jonathon\-anthony\.jpg\&quot; alt\=\&quot;Photo of Jonathan Anthony\&quot;\n                             data\-task\=\&quot;speaker\&quot;\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/eric\-braun\.jpg\&quot; alt\=\&quot;Photo of Jonathan Ferrar\&quot; data\-task\=\&quot;speaker\&quot;\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/bryan\-cantrill\.jpg\&quot; alt\=\&quot;Photo of LaVonne LaRue\&quot; data\-task\=\&quot;speaker\&quot;\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/ilya_grigorik\.jpg\&quot; alt\=\&quot;Photo of Riley Rewington\&quot; data\-task\=\&quot;speaker\&quot;\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;img src\=\&quot;images\/artists\/eric\-gundersen\.jpg \&quot; alt\=\&quot;Photo of Xhou Ta\&quot;\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/article\&gt;\&lt;\!\-\- Featured Artists \-\-\&gt;\n\n        \&lt;article id\=\&quot;comingtoevent\&quot;\&gt;\n            \&lt;h2 class\=\&quot;highlight\&quot;\&gt;Coming to the event\?\&lt;\/h2\&gt;\n            \&lt;h3\&gt;Check out our mobile site\&lt;\/h3\&gt;\n            \&lt;p\&gt;Our mobile site contains schedules\, and exhibit\/ artist details\, accessible simply by scanning QR codes\n                located all around the venue exhibit halls\.\&lt;\/p\&gt;\n            \&lt;p\&gt;\&lt;img src\=\&quot;images\/iphone_ucsc\.png\&quot; alt\=\&quot;Photo of mobile app\&quot;\&gt;\&lt;\/p\&gt;\n        \&lt;\/article\&gt;\&lt;\!\-\- Coming to event \-\-\&gt;\n\n    \&lt;\/aside\&gt;\&lt;\!\-\- Sidebar \-\-\&gt;\n\n    \&lt;footer class\=\&quot;group\&quot;\&gt;\n        \&lt;div class\=\&quot;branding\&quot;\&gt;\n            \&lt;a href\=\&quot;index\.html\&quot;\&gt;\&lt;img src\=\&quot;images\/ucsc_logo\.jpg\&quot; alt\=\&quot;UCSC Extension Logo\&quot;\&gt;\&lt;\/a\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;description\&quot;\&gt;Join over 500 hundred of the most creative and brilliant minds of technology colleges all around the world for three days of lectures by world\-renowned technology scholars and artists\.\&lt;\/div\&gt;\n        \&lt;nav class\=\&quot;group\&quot;\&gt;\n            \&lt;ol\&gt;\&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;About the UCSC Extension\&lt;\/a\&gt;\&lt;\/li\&gt;\&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Privacy Policy\&lt;\/a\&gt;\&lt;\/li\&gt;\&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Visit our website\&lt;\/a\&gt;\&lt;\/li\&gt;\&lt;\/ol\&gt;\n        \&lt;\/nav\&gt;\n    \&lt;\/footer\&gt;\n\&lt;\/div\&gt; \&lt;\!\-\- wrapper \-\-\&gt;\n\n\&lt;script src\=\&quot;_\/js\/myscript\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;class5\/initial_js_geolocation\/adding_Geolocation\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/maps\.googleapis\.com\/maps\/api\/js\?key\=AIzaSyCGUrQiyc0nEZ7afQOC94o1iIMlIhH3n8o\&amp;callback\=showGeolocation\&quot; async defer\&gt;\n\&lt;\/script\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;</find>
+      <find>eran_hammer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ucscconf</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_/css/clock.css" />
+        <option value="$PROJECT_DIR$/class2/initial/clock.css" />
+        <option value="$PROJECT_DIR$/class2/initial/snippet.html" />
+        <option value="$PROJECT_DIR$/class2/initial/countdown.js" />
+        <option value="$PROJECT_DIR$/class2/final/countdown.js" />
+        <option value="$PROJECT_DIR$/_/js/clock.js" />
+        <option value="$PROJECT_DIR$/class5/initial/pop-up.css" />
+        <option value="$PROJECT_DIR$/_/css/style.css" />
+        <option value="$PROJECT_DIR$/class5/final/Class5.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/artists.html" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/schedule.html" />
+        <option value="$PROJECT_DIR$/venuetravel.html" />
+        <option value="$PROJECT_DIR$/class5/final/Class_5_Adding_PopUp.js" />
+        <option value="$PROJECT_DIR$/class5/initial_js_geolocation/adding_Geolocation.js" />
+        <option value="$PROJECT_DIR$/class5/final/Class_5_02_Adding_Geolocation.js" />
+        <option value="$PROJECT_DIR$/class5/final/Class_5_01_Adding_PopUp.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1124" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PortalForJSComprehensive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PortalForJSComprehensive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PortalForJSComprehensive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PortalForJSComprehensive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PortalForJSComprehensive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PortalForJSComprehensive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/class5/initial" />
+      <recent name="$PROJECT_DIR$/class2/codeSnippets" />
+      <recent name="$PROJECT_DIR$/class2" />
+      <recent name="$PROJECT_DIR$/class2/initial" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/class5/final" />
+      <recent name="$PROJECT_DIR$/images/venue" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images/artists/previous" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" />
+      <option name="scriptPath" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" />
+      <option name="SCRIPT_PATH" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e871e9f-6e12-40d8-afaf-ec633f6cd136" name="Default" comment="" />
+      <created>1482865068484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1482865068484</updated>
+      <workItem from="1482865069673" duration="25345000" />
+      <workItem from="1484081281096" duration="98000" />
+      <workItem from="1484081428868" duration="14000" />
+      <workItem from="1484081502245" duration="7000" />
+      <workItem from="1484081551387" duration="3000" />
+      <workItem from="1484081985407" duration="85000" />
+      <workItem from="1484082127222" duration="230000" />
+      <workItem from="1484789585373" duration="2256000" />
+      <workItem from="1485394340004" duration="599000" />
+      <workItem from="1487207169465" duration="3798000" />
+      <workItem from="1495140691764" duration="9882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42317000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1124" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24855188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/rotator/art01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/clock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/clock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/artists/bCantrill.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/artists/previous/Barot_Bellingham.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/artists/previous/Barot_Bellingham_tn.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tech.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/iphone_roux.png" />
+    <entry file="file://$PROJECT_DIR$/class2/initial/countdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/initial/snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/final/countdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/initial/clock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <marker date="1487813337000" expanded="true" signature="2339:2396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/initial/css-pop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/initial/pop-back.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/initial/css-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/rotator/download.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/rotator/technology.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/venue/mission-bay.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/venue/aloft.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/initial/wds-demo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/initial/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="66" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/initial/pop-up.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="81" selection-start-column="8" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hotel_gwendoline.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hotel_otter.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hotel_rage.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ralogo_monogram.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/preloader3.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Poster.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portal-background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/preloader4.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/iphone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hotel_contempo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/iphone_ucsc.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/hotel_phillips.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background_buildings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/artists/eHammer.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="100" column="36" lean-forward="false" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#article#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/art01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/myscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="34" />
+          <folding>
+            <element signature="e#1696#1895#0" expanded="false" />
+            <element signature="e#1953#2095#0" expanded="false" />
+            <element signature="e#2154#2439#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="152" column="24" lean-forward="false" selection-start-line="152" selection-start-column="24" selection-end-line="152" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venuetravel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="136" column="121" lean-forward="false" selection-start-line="136" selection-start-column="106" selection-end-line="136" selection-end-column="121" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#article#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/codeSnippets/IncrementDecrementExample02.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/codeSnippets/IncrementDecrementExample03.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/codeSnippets/IncrementDecrementExample04.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/final/clock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/final/snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/final/Class_5_02_Adding_Geolocation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc;n#toggle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class5/final/Class_5_01_Adding_PopUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
